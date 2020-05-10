@@ -5,6 +5,19 @@
     
     <entry>
       <title>Hello World</title>
+      <link href="/2020/05/10/first/"/>
+      <url>/2020/05/10/first/</url>
+      
+        <content type="html"><![CDATA[<p>study1</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><pre><code class="bash">def hanoi(height, left=&#39;left&#39;, right=&#39;right&#39;, middle=&#39;middle&#39;):    if height:        hanoi(height - 1, left, middle, right)        print(left, &#39;=&gt;&#39;, right)        hanoi(height - 1, middle, right, left)hanoi(3)</code></pre>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
       <link href="/2020/05/08/hello-world/"/>
       <url>/2020/05/08/hello-world/</url>
       
